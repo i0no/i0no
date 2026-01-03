@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=006400&height=200&section=header&text=i0no&fontSize=90&animation=fadeIn&fontAlignY=38)
-
 ### 📊 My GitHub Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=i0no&theme=react-dark)
 
