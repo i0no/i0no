@@ -3,6 +3,12 @@
 [![Ion's GitHub stats](https://github-readme-stats.vercel.app/api?username=i0no&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i0no&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+### 🛠 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 <!--
 **i0no/i0no** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
