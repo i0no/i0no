@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![Ion's GitHub stats](https://github-readme-stats.vercel.app/api?username=i0no&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i0no&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **i0no/i0no** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
