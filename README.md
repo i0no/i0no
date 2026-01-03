@@ -1,6 +1,4 @@
-## Hi there 👋
-
-### 📊 My GitHub Activity
+### 📊 Activity
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=i0no&theme=react-dark)
 
 <!--
